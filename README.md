@@ -1,6 +1,6 @@
 # Model Performance Analysis Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.com) This Streamlit application provides an interactive dashboard for visualizing and analyzing model performance results, specifically designed to supplement the findings presented in [Your Paper Title/Link - Optional]. It allows users to explore metrics distributions and learning curves based on experimental data stored in a CSV file.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://model-accuracy-analyser-9rjrrn7fnmpnngw9jxx7re.streamlit.app/) This Streamlit application provides an interactive dashboard for visualizing and analyzing model performance results, specifically designed to supplement the findings presented in [Your Paper Title/Link - Optional]. It allows users to explore metrics distributions and learning curves based on experimental data stored in a CSV file.
 
 ## Overview
 
